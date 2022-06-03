@@ -191,7 +191,7 @@ nav .dot {
 
 .tm-header {
 	min-height: 70px;
-	min-width: 1000px;
+	max-width: 1000px;
 	background-color: #fff;
 	background-repeat: no-repeat;
 	background-size: cover;
